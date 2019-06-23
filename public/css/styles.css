@@ -1,0 +1,10 @@
+.status, .save{
+    display: inline-block;
+}
+.status{
+    width: 75%;
+}
+
+.bootstrap-datetimepicker-widget .table>tbody>tr>td.active{
+    background-color: #3597d2;
+}
